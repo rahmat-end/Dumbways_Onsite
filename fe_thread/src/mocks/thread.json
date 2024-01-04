@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "author_picture": "#",
+        "author_fullname": "Megawati",
+        "author_username": "Megawati-chan",
+        "posted_at": "1h",
+        "content": "Tau gak sih hari apa sehabis hari sabtu",
+        "image": "https://unsplash.com/photos/a-bull-with-large-horns-eating-grass-in-a-field-0XKM4QW5WUg",
+        "likes_count": 20,
+        "replies_count": 500,
+        "isLike": true
+    },
+    {
+        "id": 2,
+        "author_picture": "#",
+        "author_fullname": "Ganjar",
+        "author_username": "Ganjar-chan",
+        "posted_at": "4h",
+        "content": "Kenapa matahari bisa tenggelam",
+        "image": "https://unsplash.com/photos/a-bull-with-large-horns-eating-grass-in-a-field-0XKM4QW5WUg",
+        "likes_count": 300,
+        "replies_count": 1500,
+        "isLike": false
+    },
+    {
+        "id": 3,
+        "author_picture": "#",
+        "author_fullname": "Puan",
+        "author_username": "Puan-chan",
+        "posted_at": "2h",
+        "content": "Angin tak ber-KTP",
+        "image": "https://unsplash.com/photos/a-bull-with-large-horns-eating-grass-in-a-field-0XKM4QW5WUg",
+        "likes_count": 150,
+        "replies_count": 800,
+        "isLike": true
+    },
+    {
+        "id": 4,
+        "author_picture": "#",
+        "author_fullname": "Ahok",
+        "author_username": "Ahok-chan",
+        "posted_at": "3h",
+        "content": "Bootcamp onsite dumbways batch 50",
+        "image": "https://unsplash.com/photos/a-bull-with-large-horns-eating-grass-in-a-field-0XKM4QW5WUg",
+        "likes_count": 400,
+        "replies_count": 2500,
+        "isLike": true
+    }
+]
